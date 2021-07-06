@@ -12,9 +12,7 @@
             "description" : "Enter your heroku app name",
             "value" : ""
         },
-        "API_APP_URL" :{
-            "description" : "Enter your api url note please include '/' at the end",
-            "False" : ""
+        
         }
     },
     "buildpacks": [{
