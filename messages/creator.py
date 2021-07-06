@@ -2,9 +2,9 @@ from telegram.utils.helpers import escape_markdown as es
 
 
 def start_msg(name):
-    msg = f"""*Hey {es(name,version=2)}* ✋✋ *welcome to Jiosaavn downloader bot* ⚡⚡\n
-    _Just send me a jiosaavn song or album link I will send you the audio_\n
-made by @phantom2152 😈😈"""
+    msg = f"""*Hey {es(name,version=2)}* ✋✋ *Selamat Datang Di Bot Music Downloader* ⚡⚡\n
+    _Segera Unduh Music Dari saya Dan Nikmatilah Ketika Selesai Mengunduh!_\n
+Di Kelola ❤️ Oleh [ALAHSIAMY](https://t.me/LordGanss10"""
     return msg
 
 
