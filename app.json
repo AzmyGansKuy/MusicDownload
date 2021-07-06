@@ -1,7 +1,7 @@
 {
     "name" : "Music downloader bot",
     "description" : "A telegram bot that can send you high-quality audio ",
-    "repository" : "https://github.com/anishgowda21/Music-downloader-bot",
+    "repository" : "https://github.com/AzmyGansKuy/MusicDownload",
     "keywords" : ["music" , "telegram" , "telegram bot", "python","jiosaavn"],
     "env" : {
         "BOT_TOKEN" : {
@@ -14,7 +14,7 @@
         },
         "API_APP_URL" :{
             "description" : "Enter your api url note please include '/' at the end",
-            "value" : ""
+            "False" : ""
         }
     },
     "buildpacks": [{
